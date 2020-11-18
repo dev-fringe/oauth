@@ -8,7 +8,8 @@ import org.apache.oltu.oauth2.common.exception.OAuthSystemException;
 
 
 /**
- * Exemplar OAuth Token Generator
+ * @author 2025208
+ *
  */
 public class MD5Generator implements ValueGenerator {
 
